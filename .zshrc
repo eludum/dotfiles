@@ -100,5 +100,4 @@ source $ZSH/oh-my-zsh.sh
 
 alias settings="env XDG_CURRENT_DESKTOP=GNOME gnome-control-center"
 alias screenshot="gnome-screenshot -i"
-alias xkafir="xkill"
 eval $(thefuck --alias)
