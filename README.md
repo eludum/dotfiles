@@ -8,21 +8,40 @@ either use i3 or gnome
 
 the conf files and scripts that are needed are in this repo, move them over to the correct place, I'm assuming future me knows where this is.
 
-## for gnome use this list of extensions:
+## for gnome:
+
+Gnome extensions:
 
 ![image](https://user-images.githubusercontent.com/15379608/136967767-aadd445c-c9b5-471a-a207-a7e4181eaa24.png)
 
 Terminal:
 
-install fish
+install fish shell
 
-https://github.com/oh-my-fish/oh-my-fish
+```
+sudo dnf install fish
+```
+install oh my fish: https://github.com/oh-my-fish/oh-my-fish
 
+```
+curl https://raw.githubusercontent.com/oh-my-fish/oh-my-fish/master/bin/install | fish
+```
+
+install boxfist theme for oh my fish:
+
+```
 omf install boxfish
+```
 
-https://github.com/PatrickF1/fzf.fish
+install fzf.fish with fisher for better command history: https://github.com/jorgebucaran/fisher & https://github.com/PatrickF1/fzf.fish
 
-run these commands for i3 like workspace switching on gnome
+```
+curl -sL https://git.io/fisher | source && fisher install jorgebucaran/fisher
+sudo dnf install fd-find bat fzf
+fisher install PatrickF1/fzf.fish
+```
+
+Run these commands for i3 like workspace switching on gnome:
 
 Enable a static number of workspaces (e.g. 5 or 10):
 
