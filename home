@@ -1,0 +1,7 @@
+Host home
+
+        User mehmet
+        Hostname 78.22.91.39
+	Port 2222
+        ForwardAgent yes
+
