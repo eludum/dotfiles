@@ -12,7 +12,7 @@ the conf files and scripts that are needed are in this repo, move them over to t
 
 Gnome extensions:
 
-![image](https://user-images.githubusercontent.com/15379608/168905138-86e3c22f-0ca3-4ca2-bd66-661260759e45.png)
+![image](https://user-images.githubusercontent.com/15379608/183288671-6f6432fa-3f4a-4aa4-a6d0-324d1c4d9d91.png)
 
 Terminal:
 
