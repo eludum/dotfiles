@@ -12,7 +12,7 @@ the conf files and scripts that are needed are in this repo, move them over to t
 
 Gnome extensions:
 
-![image](https://user-images.githubusercontent.com/15379608/183288671-6f6432fa-3f4a-4aa4-a6d0-324d1c4d9d91.png)
+![image](https://github.com/eludum/dotfiles/assets/15379608/d82c2e77-190e-4a5e-8e07-61d97b7ad595)
 
 Terminal:
 
