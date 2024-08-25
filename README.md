@@ -6,7 +6,7 @@ install fedora
 
 Gnome extensions:
 
-![image](https://github.com/eludum/dotfiles/assets/15379608/d82c2e77-190e-4a5e-8e07-61d97b7ad595)
+![image](https://user-images.githubusercontent.com/15379608/136967767-aadd445c-c9b5-471a-a207-a7e4181eaa24.png)
 
 Terminal:
 
