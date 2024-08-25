@@ -2,13 +2,7 @@
 
 install fedora
 
-either use i3 or gnome
-
-## for i3:
-
-the conf files and scripts that are needed are in this repo, move them over to the correct place, I'm assuming future me knows where this is.
-
-## for gnome:
+## for gnome
 
 Gnome extensions:
 
@@ -21,7 +15,8 @@ install fish shell
 ```
 sudo dnf install fish
 ```
-install oh my fish: https://github.com/oh-my-fish/oh-my-fish
+
+install oh my fish: <https://github.com/oh-my-fish/oh-my-fish>
 
 ```
 curl https://raw.githubusercontent.com/oh-my-fish/oh-my-fish/master/bin/install | fish
@@ -33,7 +28,7 @@ install boxfist theme for oh my fish:
 omf install boxfish
 ```
 
-install fzf.fish with fisher for better command history: https://github.com/jorgebucaran/fisher & https://github.com/PatrickF1/fzf.fish
+install fzf.fish with fisher for better command history: <https://github.com/jorgebucaran/fisher> & <https://github.com/PatrickF1/fzf.fish>
 
 ```
 curl -sL https://git.io/fisher | source && fisher install jorgebucaran/fisher
