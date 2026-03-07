@@ -12,7 +12,7 @@ install fzf.fish and tide with fisher: <https://github.com/jorgebucaran/fisher> 
 
 ```
 curl -sL https://git.io/fisher | source && fisher install jorgebucaran/fisher
-sudo dnf install fd-find bat fzf
+brew install fzf
 fisher install PatrickF1/fzf.fish
 fisher install IlanCosman/tide@v6
 ```
